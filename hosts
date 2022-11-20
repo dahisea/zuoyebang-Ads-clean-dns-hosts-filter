@@ -1,4 +1,3 @@
-0.0.0.0 cgi.connect.qq.com
 0.0.0.0 httpdns.zybang.com
 0.0.0.0 sanxia.zybang.com
 0.0.0.0 zyb-stats.zuoyebang.cc
@@ -9,4 +8,5 @@
 0.0.0.0 pluto.zuoyebang.com
 0.0.0.0 owl-log.zuoyebang.cc
 0.0.0.0 notice.zuoyebang.cc
+0.0.0.0 smt-upload.zuoyebang.com
 0.0.0.0 shumei-app-thirdpart.zuoyebang.com
