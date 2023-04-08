@@ -1,3 +1,3 @@
-# zuoyebang-opening-ads-hosts-filter
+# 作业帮开屏广告，愿你有一天能与你重要的人重逢
 
-尝试去掉作业帮开屏广告
+于是此项目尝试去掉作业帮开屏广告（doge）
