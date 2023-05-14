@@ -5,6 +5,7 @@
 0.0.0.0 mall.zybang.com
 0.0.0.0 msg.zybang.com
 0.0.0.0 apiugc.zybang.com
+0.0.0.0 apivip.zybang.com
 
 
 0.0.0.0 zyb-stats.zuoyebang.cc
@@ -19,6 +20,8 @@
 0.0.0.0 jx2.zuoyebang.com
 0.0.0.0 smt-upload.zuoyebang.com
 0.0.0.0 bfyd.zuoyebang.com
+0.0.0.0 cube.zuoyebang.com
+0.0.0.0 gtactivity.zuoyebang.com
 
 
 0.0.0.0 www.fengniaojianzhan.com
@@ -38,3 +41,6 @@
 
 
 0.0.0.0 sysdk.cl2009.com
+
+
+0.0.0.0 microsoft-zyb.v.bsy.x.bdydns.com
