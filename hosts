@@ -1,33 +1,16 @@
 0.0.0.0 syh.zybang.com
-
- 0.0.0.0 resourceserver.zybang.com
-
- 0.0.0.0 mall.zybang.com
-
- 0.0.0.0 msg.zybang.com
-
- 0.0.0.0 zyb-stats.zuoyebang.cc
-
- 0.0.0.0 nlogtj.zuoyebang.cc
-
- 0.0.0.0 shumei-app-thirdpart.zuoyebang.com
-
- 0.0.0.0 abtest.zuoyebang.com
-
- 0.0.0.0 smt-upload.zuoyebang.com
-
- 0.0.0.0 bfyd.zuoyebang.com
-
- 0.0.0.0 cube.zuoyebang.com
-
- 0.0.0.0 gtactivity.zuoyebang.com
-
- 0.0.0.0 rp.hpplay.cn
-
- 0.0.0.0 vip.cdnjtzy.com
-
- 0.0.0.0 zyb-vip.cdnjtzy.com
-
- 0.0.0.0 xfe.cdnjtzy.com
-
- 0.0.0.0 httpdns.yunxindns.com
+0.0.0.0 resourceserver.zybang.com
+0.0.0.0 mall.zybang.com
+0.0.0.0 zyb-stats.zuoyebang.cc
+0.0.0.0 nlogtj.zuoyebang.cc
+0.0.0.0 shumei-app-thirdpart.zuoyebang.com
+0.0.0.0 abtest.zuoyebang.com
+0.0.0.0 smt-upload.zuoyebang.com
+0.0.0.0 bfyd.zuoyebang.com
+0.0.0.0 cube.zuoyebang.com
+0.0.0.0 gtactivity.zuoyebang.com
+0.0.0.0 rp.hpplay.cn
+0.0.0.0 imdns.hpplay.cn
+0.0.0.0 vip.cdnjtzy.com
+0.0.0.0 xfe.cdnjtzy.com
+0.0.0.0 httpdns.yunxindns.com
