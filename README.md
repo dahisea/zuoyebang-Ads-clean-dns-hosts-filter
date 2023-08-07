@@ -1,3 +1,1 @@
-# 作业帮开屏广告hello
-
-于是此项目尝试去掉作业帮开屏广告（）
+# No Ads in Zuoyebang.
